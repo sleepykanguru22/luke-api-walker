@@ -10,7 +10,7 @@ const AllColors = (props) => {
     e.preventDefault();
     // When the user clicks the submit input in the form,
     //we will navigate to the "/results" path
-    navigate("/hello");
+    navigate("/hello/:");
   };
 
   return (
